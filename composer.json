@@ -1,0 +1,16 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.8",
+        "mpdf/mpdf": "^8.0",
+        "phpoffice/phpword": "dev-master",
+        "vlucas/phpdotenv": "^3.6",
+        "econea/nusoap": "^0.9.7",
+        "authorizenet/authorizenet": "2.0.2"
+    },
+    "require-dev": {
+        "mikey179/vfsstream": "1.1.*",
+        "phpunit/phpunit": "4.* || 5.*",
+        "kenjis/ci-phpunit-test": "^0.17.0",
+        "boenrobot/money_format_polyfill": "*"
+    }
+}
